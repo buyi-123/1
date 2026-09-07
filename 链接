@@ -9,7 +9,6 @@
 https://gh-proxy.org/https://github.com/tianze889/tvds/raw/refs/heads/main/tvdc.json
 https://twitch.445569.xyz/live.m3u
 
-
 海阔：
 https://haikuo.lanzouf.com/u/GoldRiver
 
@@ -17,7 +16,15 @@ CF优选：
 https://raw.githubusercontent.com/vipmc838/cf_best_ip/refs/heads/main/cloudflare_bestip.txt
 https://raw.githubusercontent.com/gslege/CloudflareIP/refs/heads/main/country.txt
 
-道长：
-https://gitlab.com/duomv/dzhipy/-/raw/main/index.json
+
 https://ghfast.top/https://raw.githubusercontent.com/laozheng520/jk/main/宜优精选.json
 https://gh-proxy.org/https://raw.githubusercontent.com/energy65/yl/refs/heads/main/foreveryld.json
+
+独立弹幕服务地址
+https://github.com/YYDS678/danmu_api/releases/download/latest/danmu_api_server.cjs.md5
+
+hawk player插件
+https://cdn.jsdelivr.net/gh/piaoranyuyun/Hawk-Player@refs/heads/main/Official
+
+去广规则库
+https://m3u8-ad-audio-rules-sync.ccfork.workers.dev/rules.json                                                                                       
