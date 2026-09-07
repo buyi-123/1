@@ -1624,8 +1624,12 @@
       "url": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/1.txt"
     },
    {
-      "name": "2",
+      "name": 2,
       "url": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/2.txt"
+    },
+   {
+      "name": "Twitch",
+      "url": "https://twitch.445569.xyz/live.m3u"
     }
   ],
   "ijk": [
