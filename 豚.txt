@@ -29,6 +29,13 @@
       "changeable": 0
     },
     {
+      "key": "哔哩影视",
+      "name": "哔哩影视",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/哔哩影视.py",
+      "changeable": 0
+    },
+    {
       "name": "弹幕",
       "key": "弹幕豆瓣",
       "type": 3,
