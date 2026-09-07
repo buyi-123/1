@@ -1452,6 +1452,18 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/Ai顶级涩图.py"
     },
     {
+      "key": "勃士",
+      "name": "勃士.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/勃士.py"
+    },
+    {
+      "key": "风月阁",
+      "name": "风月阁.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/风月阁.py"
+    },
+    {
       "key": "采集聚合成人",
       "name": "🐬采集聚合成人.py｜🔞",
       "type": 3,
