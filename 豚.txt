@@ -1488,6 +1488,24 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/香女园.py"
     },
     {
+      "key": "霸王鸟视频",
+      "name": "霸王鸟视频.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/霸王鸟视频.py"
+    },
+    {
+      "key": "你的秘书",
+      "name": "你的秘书.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/你的秘书.py"
+    },
+    {
+      "key": "午夜剧场",
+      "name": "午夜剧场.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/午夜剧场.py"
+    },
+    {
       "key": "采集聚合成人",
       "name": "🐬采集聚合成人.py｜🔞",
       "type": 3,
