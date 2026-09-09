@@ -1476,6 +1476,30 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/Lvmao.py"
     },
     {
+      "key": "gdd视频",
+      "name": "gdd视频.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/gdd视频.py"
+    },
+    {
+      "key": "花千色",
+      "name": "花千色.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/花千色.py"
+    },
+    {
+      "key": "蘑菇影院",
+      "name": "蘑菇影院.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/蘑菇影院o.py"
+    },
+    {
+      "key": "香女园",
+      "name": "香女园.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/香女园.py"
+    },
+    {
       "key": "采集聚合成人",
       "name": "🐬采集聚合成人.py｜🔞",
       "type": 3,
