@@ -1272,18 +1272,6 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/香肠派对.py"
     },
     {
-      "key": "clspq",
-      "name": "🐬草榴视频区.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/草榴视频区.py"
-    },
-    {
-      "key": "123av",
-      "name": "🐬123AV.py｜🔞",
-      "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/uuy988/fgh998/refs/heads/main/py/123AV🔞TG @hshsjk9.py"
-    },
-    {
       "key": "8X8X",
       "name": "🐬8X8X.py｜🔞",
       "type": 3,
@@ -1504,12 +1492,6 @@
       "name": "屌丝天下.py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/屌丝天下.py"
-    },
-    {
-      "key": "色花堂视频",
-      "name": "色花堂视频.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/色花堂视频.py"
     },
     {
       "key": "采集聚合成人",
