@@ -1420,19 +1420,7 @@
       "name": "黄果优化.py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/黄果优化.py"
-    },
-    {
-      "key": "爽水妹",
-      "name": "爽水妹.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/爽水妹.py"
-    },
-    {
-      "key": "勃士",
-      "name": "勃士.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/勃士.py"
-    },
+    },
     {
       "key": "风月阁",
       "name": "风月阁.py｜🔞",
