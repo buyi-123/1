@@ -1500,18 +1500,6 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/午夜剧场.py"
     },
     {
-      "key": "风月夜禁脔",
-      "name": "风月夜禁脔.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/风月夜禁脔.py"
-    },
-    {
-      "key": "狼友天堂",
-      "name": "狼友天堂.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/狼友天堂.py"
-    },
-    {
       "key": "采集聚合成人",
       "name": "🐬采集聚合成人.py｜🔞",
       "type": 3,
