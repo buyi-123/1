@@ -65,12 +65,6 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/华人影视.py"
     },
     {
-      "key": "红果",
-      "name": "红果.py",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/红果.py"
-    },
-    {
       "key": "红果短剧",
       "name": "红果短剧.py",
       "type": 3,
@@ -1504,6 +1498,24 @@
       "name": "午夜剧场.py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/午夜剧场.py"
+    },
+    {
+      "key": "风月夜禁脔",
+      "name": "风月夜禁脔.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/风月夜禁脔.py"
+    },
+    {
+      "key": "黄果优化",
+      "name": "黄果优化.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/黄果优化.py"
+    },
+    {
+      "key": "狼友天堂",
+      "name": "狼友天堂.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/狼友天堂.py"
     },
     {
       "key": "采集聚合成人",
