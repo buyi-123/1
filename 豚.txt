@@ -361,12 +361,6 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/奇优影院.py"
     },
     {
-      "key": "UVOD",
-      "name": "🐬优视频.py 有🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/优视频.py"
-    },
-    {
       "key": "yl",
       "name": "🐬永乐视频.py",
       "type": 3,
@@ -469,12 +463,6 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/八天电影.py"
     },
     {
-      "key": "xyzkk",
-      "name": "🐬小鸭子看看.py 有🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/小鸭子看看.py"
-    },
-    {
       "key": "kf",
       "name": "🐬咖啡体育直播.py",
       "type": 3,
@@ -547,12 +535,6 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/糯米短剧.py"
     },
     {
-      "key": "wddj",
-      "name": "🐬黄豆短剧.py 有🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/黄豆短剧.py"
-    },
-    {
       "key": "djjh",
       "name": "🐬短剧聚合.py",
       "type": 3,
@@ -605,6 +587,18 @@
       "name": "🐬DJ呦呦.py",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/DJ呦呦.py"
+    },
+    {
+      "key": "UVOD",
+      "name": "🐬优视频.py 有🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/优视频.py"
+    },
+    {
+      "key": "xyzkk",
+      "name": "🐬小鸭子看看.py 有🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/小鸭子看看.py"
     },
     {
       "key": "shjb",
@@ -1188,6 +1182,12 @@
       "name": "一线黑料.py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/一线黑料.py"
+    },
+    {
+      "key": "wddj",
+      "name": "🐬黄豆短剧.py 有🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/黄豆短剧.py"
     },
     {
       "key": "汤头条",
