@@ -470,7 +470,7 @@
     },
     {
       "key": "xyzkk",
-      "name": "🐬[伦理]小鸭子看看.py 有🔞",
+      "name": "🐬小鸭子看看.py 有🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/小鸭子看看.py"
     },
