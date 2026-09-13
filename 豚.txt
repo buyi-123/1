@@ -1358,6 +1358,12 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/4k日本动漫.py"
     },
     {
+      "key": "抠爆B处(采集)",
+      "name": "抠爆B处(采集).py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/抠爆B处(采集).py"
+    },
+    {
       "key": "汤头条",
       "name": "汤头条.py｜🔞",
       "type": 3,
