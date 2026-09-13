@@ -1550,16 +1550,8 @@
       "url": "https://xjpnmb.pages.dev/live.m3u"
     },
    {
-      "name": "综合",
-      "url": "https://live.445569.xyz/live.m3u"
-    },
-   {
       "name": "BunBun",
       "url": "http://nn.7x9d.cn/tv/Bunbun.m3u"
-    },
-   {
-      "name": "Tiktok",
-      "url": "https://tiktok.445569.xyz/live.m3u"
     },
    {
       "name": "大秀",
