@@ -415,6 +415,12 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/麻花影视.py"
     },
     {
+      "key": "1234影视",
+      "name": "1234影视.py",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/1234影视.py"
+    },
+    {
       "key": "XH",
       "name": "🐬星河影视.py",
       "type": 3,
@@ -587,6 +593,18 @@
       "name": "🐬DJ呦呦.py",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/DJ呦呦.py"
+    },
+    {
+      "key": "fofo11",
+      "name": "fofo11.py",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/fofo11.py"
+    },
+    {
+      "key": "sounding",
+      "name": "sounding.py",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/sounding.py"
     },
     {
       "key": "UVOD",
@@ -1368,6 +1386,18 @@
       "name": "草艹草.py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/草艹草.py"
+    },
+    {
+      "key": "床前侍卫",
+      "name": "床前侍卫.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/床前侍卫.py"
+    },
+    {
+      "key": "九合一",
+      "name": "九合一.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/九合一.py"
     },
     {
       "key": "汤头条",
