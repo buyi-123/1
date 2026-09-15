@@ -1,6 +1,6 @@
 {
   "spider": "",
-  "wallpaper": "http://tool.teyonds.com/api",
+  "wallpaper": "http://王二小放牛娃牛逼.999888987.xyz",
   "warningText": "资源来自网络",
   "sites": [
     {
