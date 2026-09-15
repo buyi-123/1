@@ -1571,7 +1571,7 @@
     },
    {
       "name": "黄果",
-      "url": "https://xjpnmb.pages.dev/live.m3u"
+      "url": "https://aya-hdou.pages.dev/live.m3u"
     },
    {
       "name": "BunBun",
