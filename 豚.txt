@@ -1,6 +1,6 @@
 {
   "spider": "",
-  "wallpaper": "http://王二小放牛娃牛逼.999888987.xyz",
+  "wallpaper": "https://饭的动态壁纸.xxooo.cf",
   "warningText": "资源来自网络",
   "sites": [
     {
