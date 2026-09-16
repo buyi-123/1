@@ -48,18 +48,6 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/咖啡直播.py"
     },
     {
-      "key": "yyds直播",
-      "name": "yyds直播.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/yyds直播.py"
-    },
-    {
-      "key": "TG视频",
-      "name": "TG视频.py",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/TG视频.py"
-    },
-    {
       "key": "blzb",
       "name": "🐬哔哩直播.py",
       "type": 3,
@@ -1141,6 +1129,12 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/电视直播.py"
     },
     {
+      "key": "yyds直播",
+      "name": "yyds直播.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/yyds直播.py"
+    },
+    {
       "key": "黄果短剧",
       "name": "黄果短剧.py｜🔞",
       "type": 3,
@@ -1490,10 +1484,10 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/whostv.py"
     },
     {
-      "key": "🙈Uaa[🔞密]",
-      "name": "🙈Uaa[🔞密].py｜🔞",
+      "key": "Uaa",
+      "name": "Uaa.py｜🔞",
       "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/🙈Uaa[🔞密].py"
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/Uaa.py"
     },
     {
       "key": "东京淫联",
