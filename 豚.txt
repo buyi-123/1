@@ -1628,6 +1628,12 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/有声小说.py"
     },
     {
+      "key": "黄豆短剧_v3",
+      "name": "黄豆短剧_v3.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/黄豆短剧_v3.py"
+    },
+    {
       "key": "汤头条",
       "name": "汤头条.py｜🔞",
       "type": 3,
