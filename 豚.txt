@@ -1586,6 +1586,24 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/黑料论坛.py"
     },
     {
+      "key": "57短剧",
+      "name": "57短剧.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/57短剧.py"
+    },
+    {
+      "key": "234个网站",
+      "name": "234个网站.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/234个网站.py"
+    },
+    {
+      "key": "supjav_CF",
+      "name": "supjav_CF.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/supjav_CF.py"
+    },
+    {
       "key": "汤头条",
       "name": "汤头条.py｜🔞",
       "type": 3,
