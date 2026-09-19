@@ -1616,6 +1616,12 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/淫花宫.py"
     },
     {
+      "key": "getav",
+      "name": "getav｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/getav.py"
+    },
+    {
       "key": "汤头条",
       "name": "汤头条.py｜🔞",
       "type": 3,
