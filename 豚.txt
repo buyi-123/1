@@ -1604,6 +1604,18 @@
       "api": "https://pan.szfx.top/down.php/1869fa900e001b1b0d6b5dfd6934ca46.py"
     },
     {
+      "key": "咸鱼传媒",
+      "name": "咸鱼传媒｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/咸鱼传媒.py"
+    },
+    {
+      "key": "淫花宫",
+      "name": "淫花宫｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/淫花宫.py"
+    },
+    {
       "key": "汤头条",
       "name": "汤头条.py｜🔞",
       "type": 3,
