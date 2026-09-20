@@ -1830,7 +1830,7 @@
       "url": "http://nn.7x9d.cn/tv/Bunbun.m3u"
     },
    {
-      "name": "身不由己",
+      "name": "黄短",
       "url": "https://aya-91cr.pages.dev/live.m3u"
     },
    {
