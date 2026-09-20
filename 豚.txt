@@ -72,6 +72,18 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/华人影视.py"
     },
     {
+      "key": "88影视(秒播)",
+      "name": "88影视(秒播).py",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/88影视(秒播).py"
+    },
+    {
+      "key": "星空中文影院",
+      "name": "星空中文影院.py",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/星空中文影院.py"
+    },
+    {
       "key": "红果短剧",
       "name": "红果短剧.py",
       "type": 3,
@@ -1620,6 +1632,36 @@
       "name": "getav｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/getav.py"
+    },
+    {
+      "key": "E佬苹果",
+      "name": "E佬苹果｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/E佬苹果.py"
+    },
+    {
+      "key": "missav全分类版",
+      "name": "missav全分类版｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/missav全分类版.py"
+    },
+    {
+      "key": "py_推特APP",
+      "name": "py_推特APP｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/py_推特APP.py"
+    },
+    {
+      "key": "悟空传媒",
+      "name": "悟空传媒｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/悟空传媒.py"
+    },
+    {
+      "key": "自动加载-v2.0",
+      "name": "自动加载-v2.0｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/自动加载-v2.0.py"
     },
     {
       "key": "汤头条",
