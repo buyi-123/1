@@ -1634,6 +1634,18 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/悟空传媒.py"
     },
     {
+      "key": "AV色界",
+      "name": "AV色界｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/AV色界.py"
+    },
+    {
+      "key": "H二次元动画",
+      "name": "H二次元动画｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/H二次元动画.py"
+    },
+    {
       "key": "汤头条",
       "name": "汤头条.py｜🔞",
       "type": 3,
