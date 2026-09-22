@@ -1238,10 +1238,16 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/91动漫.py"
     },
     {
-      "key": "18av[密]",
-      "name": "18av[密].py｜🔞",
+      "key": "18av",
+      "name": "18av.py｜🔞",
       "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/18av[密].py"
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/18av.py"
+    },
+    {
+      "key": "18AV",
+      "name": "18AV.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/18AV.py"
     },
     {
       "key": "javfree",
