@@ -1532,12 +1532,6 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/乳香影院.py"
     },
     {
-      "key": "伊人奶超大",
-      "name": "伊人奶超大.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/伊人奶超大.py"
-    },
-    {
       "key": "有声小说",
       "name": "有声小说.py｜🔞",
       "type": 3,
