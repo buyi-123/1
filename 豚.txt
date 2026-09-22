@@ -1622,12 +1622,6 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/星空中文影院.py"
     },
     {
-      "key": "missav全分类版",
-      "name": "missav全分类版｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/missav全分类版.py"
-    },
-    {
       "key": "悟空传媒",
       "name": "悟空传媒｜🔞",
       "type": 3,
