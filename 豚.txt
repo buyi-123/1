@@ -1680,12 +1680,6 @@
       "name": "玉女百科｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/玉女百科.py"
-    },
-    {
-      "key": "汤头条",
-      "name": "汤头条.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/汤头条.py"
     }
   ],
   "parses": [
