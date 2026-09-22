@@ -1466,12 +1466,6 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/UU直播破解.py"
     },
     {
-      "key": "whostv",
-      "name": "whostv.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/whostv.py"
-    },
-    {
       "key": "Uaa",
       "name": "Uaa.py｜🔞",
       "type": 3,
