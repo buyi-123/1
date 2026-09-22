@@ -1081,12 +1081,6 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/missav-app.py"
     },
     {
-      "key": "海角情",
-      "name": "海角情.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/海角情.py"
-    },
-    {
       "key": "推特涩涩",
       "name": "推特涩涩.py｜🔞",
       "type": 3,
@@ -1488,18 +1482,6 @@
       "name": "东京淫联.py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/东京淫联.py"
-    },
-    {
-      "key": "海角社区",
-      "name": "海角社区.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/海角社区.py"
-    },
-    {
-      "key": "韩国BJ",
-      "name": "韩国BJ.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/韩国BJ.py"
     },
     {
       "key": "黄豆短剧 2",
