@@ -1057,18 +1057,6 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/TOPTV.py"
     },
     {
-      "key": "VHUB",
-      "name": "🐬VHUB.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/VHUB[成人].py"
-    },
-    {
-      "key": "uaa有声",
-      "name": "uaa有声.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/uaa有声.py"
-    },
-    {
       "key": "missav-app",
       "name": "missav-app.py｜🔞",
       "type": 3,
@@ -1079,12 +1067,6 @@
       "name": "推特涩涩.py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/推特涩涩.py"
-    },
-    {
-      "key": "电视直播",
-      "name": "电视直播.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/电视直播.py"
     },
     {
       "key": "yyds直播",
@@ -1301,12 +1283,6 @@
       "name": "鉴黄师_v5.py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/鉴黄师_v5.py"
-    },
-    {
-      "key": "123av",
-      "name": "123av.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/123av.py"
     },
     {
       "key": "91吃瓜喽(瑟+瓜)",
