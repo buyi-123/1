@@ -1267,12 +1267,6 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/4k日本动漫.py"
     },
     {
-      "key": "jinji_theater",
-      "name": "jinji_theater.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/jinji_theater.py"
-    },
-    {
       "key": "theporny",
       "name": "theporny.py｜🔞",
       "type": 3,
