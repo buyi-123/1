@@ -218,6 +218,24 @@
       "changeable": 0
     },
     {
+      "key": "极速追剧",
+      "name": "极速追剧",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/极速追剧.py"
+    },
+    {
+      "key": "一起看",
+      "name": "一起看",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/一起看.py"
+    },
+    {
+      "key": "移动4k",
+      "name": "移动4k",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/移动4k.py"
+    },
+    {
       "key": "宅男影视",
       "name": "🐬宅男影视.py(关梯)",
       "type": 3,
@@ -419,6 +437,12 @@
       "name": "🐬剧OK.py",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/剧OK.py"
+    },
+    {
+      "key": "n029",
+      "name": "n029",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/n029.py"
     },
     {
       "key": "xhvm",
@@ -1519,12 +1543,6 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/xx01.py"
     },
     {
-      "key": "bestjav",
-      "name": "bestjav｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/bestjav.py"
-    },
-    {
       "key": "bestjavporn",
       "name": "bestjavporn｜🔞",
       "type": 3,
@@ -1537,40 +1555,16 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/freepornvideos.py"
     },
     {
-      "key": "n029",
-      "name": "n029｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/n029.py"
-    },
-    {
       "key": "顶一顶娇娃",
       "name": "顶一顶娇娃｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/顶一顶娇娃.py"
     },
     {
-      "key": "小马拉车",
-      "name": "小马拉车｜🔞",
+      "key": "小马拉车(采集）",
+      "name": "小马拉车(采集）｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/小马拉车.py"
-    },
-    {
-      "key": "极速追剧",
-      "name": "极速追剧｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/极速追剧.py"
-    },
-    {
-      "key": "一起看",
-      "name": "一起看｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/一起看.py"
-    },
-    {
-      "key": "移动4k",
-      "name": "移动4k｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/移动4k.py"
     },
     {
       "key": "玉女百科",
