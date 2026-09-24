@@ -445,6 +445,18 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/n029.py"
     },
     {
+      "key": "p108",
+      "name": "p108",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/p108.py"
+    },
+    {
+      "key": "n006",
+      "name": "n006",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/n006.py"
+    },
+    {
       "key": "xhvm",
       "name": "🐬骚火影视.py",
       "type": 3,
@@ -1565,6 +1577,12 @@
       "name": "小马拉车(采集）｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/小马拉车.py"
+    },
+    {
+      "key": "1色",
+      "name": "1色｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/1色.py"
     },
     {
       "key": "玉女百科",
