@@ -1791,16 +1791,8 @@
       "url": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/2.txt"
     },
    {
-      "name": "黄果",
-      "url": "https://aya-hdou.pages.dev/live.m3u"
-    },
-   {
       "name": "BunBun",
       "url": "http://nn.7x9d.cn/tv/Bunbun.m3u"
-    },
-   {
-      "name": "黄短",
-      "url": "https://aya-91cr.pages.dev/live.m3u"
     },
    {
       "name": "Twitch",
