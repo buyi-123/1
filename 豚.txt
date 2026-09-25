@@ -1591,6 +1591,30 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/2av.py"
     },
     {
+      "key": "123AV",
+      "name": "123AV｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/123AV.py"
+    },
+    {
+      "key": "luoju",
+      "name": "luoju｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/luoju.py"
+    },
+    {
+      "key": "MIssA",
+      "name": "MIssAv｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/MIssA.py"
+    },
+    {
+      "key": "黄果漫剧",
+      "name": "黄果漫剧｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/黄果漫剧.py"
+    },
+    {
       "key": "玉女百科",
       "name": "玉女百科｜🔞",
       "type": 3,
