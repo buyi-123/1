@@ -22,12 +22,6 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/优酷视频.py"
     },
     {
-      "key": "腾爱优芒B",
-      "name": "🐬腾爱优芒B.py",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/腾爱优芒B🍀TG @hshsjk9.py"
-    },
-    {
       "key": "哔哩影视",
       "name": "哔哩影视",
       "type": 3,
@@ -154,6 +148,12 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/易听书网🍀TG @hshsjk9.py"
     },
     {
+      "key": "kwms",
+      "name": "🐬酷我音乐.py",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/酷我音乐.py"
+    },
+    {
       "key": "音乐聚合",
       "name": "🐬音乐聚合.py",
       "type": 3,
@@ -170,12 +170,6 @@
       "name": "🐬枫叶音乐.py",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/枫叶音乐.py"
-    },
-    {
-      "key": "kwms",
-      "name": "🐬酷我音乐.py",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/酷我音乐.py"
     },
     {
       "key": "华人影视",
