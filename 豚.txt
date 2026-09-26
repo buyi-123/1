@@ -64,12 +64,6 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/油管直播.py"
     },
     {
-      "key": "SOOP直播",
-      "name": "SOOP直播,py",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/SOOP直播.py"
-    },
-    {
       "key": "抖音精选",
       "name": "抖音精选.py",
       "type": 3,
@@ -641,6 +635,12 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/小鸭子看看.py"
     },
     {
+      "key": "韩剧巴士",
+      "name": "🐬韩剧巴士.py",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/韩剧巴士.py"
+    },
+    {
       "key": "shjb",
       "name": "🐬色播聚合.py｜🔞",
       "type": 3,
@@ -666,27 +666,333 @@
     },
     {
       "key": "Pandalive",
-      "name": "🐬韩国Pandalive直播.py｜🔞",
+      "name": "Pandalive.py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/Pandalive直播.py"
     },
     {
-      "key": "818hlw",
-      "name": "🐬818黑料网.py｜🔞",
+      "key": "yyds直播",
+      "name": "yyds直播.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/yyds直播.py"
+    },
+    {
+      "key": "123AV",
+      "name": "123AV｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/123AV.py"
+    },
+    {
+      "key": "owoav",
+      "name": "owoav｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/owoav.py"
+    },
+    {
+      "key": "youav",
+      "name": "youav｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/youav.py"
+    },
+    {
+      "key": "javmenu",
+      "name": "javmenu｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/javmenu.py"
+    },
+    {
+      "key": "bestjavporn",
+      "name": "bestjavporn｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/bestjavporn.py"
+    },
+    {
+      "key": "freepornvideos",
+      "name": "freepornvideos｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/freepornvideos.py"
+    },
+    {
+      "key": "getav",
+      "name": "getav｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/getav.py"
+    },
+    {
+      "key": "xvideos个人轮巡版",
+      "name": "xvideos个人轮巡版.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/xvideos个人轮巡版.py"
+    },
+    {
+      "key": "avtoday",
+      "name": "avtoday.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/avtoday.py"
+    },
+    {
+      "key": "supjav_CF",
+      "name": "supjav_CF｜🔞",
+      "type": 3,
+      "api": "https://pan.szfx.top/down.php/1869fa900e001b1b0d6b5dfd6934ca46.py"
+    },
+    {
+      "key": "javdb新",
+      "name": "javdb新.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/javdb新.py"
+    },
+    {
+      "key": "avjoy",
+      "name": "avjoy.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/avjoy.py"
+    },
+    {
+      "key": "pornlulu",
+      "name": "pornlulu.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/pornlulu.py"
+    },
+    {
+      "key": "theporny",
+      "name": "theporny.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/theporny.py"
+    },
+    {
+      "key": "javfree",
+      "name": "javfree.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/javfree.py"
+    },
+    {
+      "key": "javhd",
+      "name": "javhd.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/javhd.py"
+    },
+    {
+      "key": "ggjav",
+      "name": "ggjav.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/ggjav.py"
+    },
+    {
+      "key": "FCJAV",
+      "name": "FCJAV.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/FCJAV.py"
+    },
+    {
+      "key": "xszav",
+      "name": "xszav.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/xszav.py"
+    },
+    {
+      "key": "missav-app",
+      "name": "missav-app.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/missav-app.py"
+    },
+    {
+      "key": "missav666",
+      "name": "missav666.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/missav666.py"
+    },
+    {
+      "key": "Jable",
+      "name": "🐬Jable.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/Jable.py"
+    },
+    {
+      "key": "jabie(2)",
+      "name": "jabie(2).py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/jabie(2).py"
+    },
+    {
+      "key": "Jable直播放",
+      "name": "Jable直播放.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/Jable直播放.py"
+    },
+    {
+      "key": "AdultpornaAV",
+      "name": "🐬AdultpornaAV.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/AdultpornaAV.py"
+    },
+    {
+      "key": "Xvideos",
+      "name": "🐬Xvideos.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/Xvideos.py"
+    },
+    {
+      "key": "Pornhub",
+      "name": "🐬Pornhub.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/Pornhub.py"
+    },
+    {
+      "key": "xhamster",
+      "name": "🐬xhamster.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/xhamster.py"
+    },
+    {
+      "key": "eporner",
+      "name": "🐬EPORNER.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/EPORNER.py"
+    },
+    {
+      "key": "fullhd",
+      "name": "🐬FullHD.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/FullHD.py"
+    },
+    {
+      "key": "BadNews",
+      "name": "🐬BadNews.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/BadNews.py"
+    },
+    {
+      "key": "fulleroticmovies",
+      "name": "🐬fulleroticmovies.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/fulleroticmovies🔞.py"
+    },
+    {
+      "key": "TnAflix",
+      "name": "🐬TnAflix.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/TnAflix🔞.py"
+    },
+    {
+      "key": "kiss",
+      "name": "🐬kiss.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/kiss🔞.py"
+    },
+    {
+      "key": "818黑料网",
+      "name": "818黑料网.py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/818黑料网.py"
     },
     {
-      "key": "91qgzx",
-      "name": "🐬91吃瓜中心.py｜🔞",
+      "key": "黑料论坛",
+      "name": "黑料论坛.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/黑料论坛.py"
+    },
+    {
+      "key": "黑料",
+      "name": "黑料.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/黑料.py"
+    },
+    {
+      "key": "今日看料",
+      "name": "今日看料.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/今日看料.py"
+    },
+    {
+      "key": "黑料不打烊",
+      "name": "黑料不打烊.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/黑料不打烊.py"
+    },
+    {
+      "key": "黑料网",
+      "name": "黑料网.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/黑料网.py"
+    },
+    {
+      "key": "一线黑料",
+      "name": "一线黑料.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/一线黑料.py"
+    },
+    {
+      "key": "xigua51",
+      "name": "xigua51｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/xigua51.py"
+    },
+    {
+      "key": "57吃瓜",
+      "name": "57吃瓜｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/57吃瓜.py"
+    },
+    {
+      "key": "91吃瓜中心",
+      "name": "91吃瓜中心.py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/91吃瓜中心.py"
     },
     {
       "key": "91大赛",
-      "name": "🐬91大赛(无封面).py｜🔞",
+      "name": "91大赛(无封面).py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/91大赛.py"
+    },
+    {
+      "key": "91出品短剧",
+      "name": "91出品短剧.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/91出品短剧.py"
+    },
+    {
+      "key": "91吃瓜喽(瑟+瓜)",
+      "name": "91吃瓜喽(瑟+瓜).py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/91吃瓜喽(瑟+瓜).py"
+    },
+    {
+      "key": "91成人短剧",
+      "name": "91成人短剧｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/91成人短剧.py"
+    },
+    {
+      "key": "91动漫",
+      "name": "91动漫.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/91动漫.py"
+    },
+    {
+      "key": "91porn",
+      "name": "🐬91porn.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/91porn.py"
+    },
+    {
+      "key": "91Porn蝌蚪窝",
+      "name": "🐬91Porn蝌蚪窝.py🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/91Porn蝌蚪窝.py"
+    },
+    {
+      "key": "91热爆",
+      "name": "🐬91热爆.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/91热爆🔞.py"
+    },
+    {
+      "key": "91porna",
+      "name": "🐬91porna.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/91porna🔞.py"
     },
     {
       "key": "mrds",
@@ -695,46 +1001,256 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/每日大赛.py"
     },
     {
-      "key": "mrdld",
-      "name": "🐬每日大乱斗.py｜🔞",
+      "key": "每日大乱斗",
+      "name": "每日大乱斗.py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/每日大乱斗.py"
     },
     {
-      "key": "jrkl",
-      "name": "🐬今日看料.py｜🔞",
+      "key": "51短剧",
+      "name": "51短剧｜🔞",
       "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/今日看料.py"
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/51短剧.py"
     },
     {
-      "key": "hl",
-      "name": "🐬黑料不打烊.py｜🔞",
+      "key": "57短剧",
+      "name": "57短剧｜🔞",
       "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/黑料不打烊.py"
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/57短剧.py"
     },
     {
-      "key": "hlw",
-      "name": "🐬黑料网.py｜🔞",
+      "key": "青桔短剧",
+      "name": "青桔短剧.py｜🔞",
       "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/黑料网.py"
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/青桔短剧.py"
+    },
+    {
+      "key": "huangguo",
+      "name": "huangguo.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/huangguo.py"
+    },
+    {
+      "key": "huangguo1",
+      "name": "huangguo1.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/huangguo1.py"
+    },
+    {
+      "key": "黄果漫剧",
+      "name": "黄果漫剧｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/黄果漫剧.py"
     },
     {
       "key": "ASMR听书",
       "name": "🐬ASMR听书.py｜🔞",
       "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/ASMR听书🔞.py"
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/ASMR听书.py"
     },
     {
-      "key": "韩剧巴士",
-      "name": "🐬韩剧巴士.py🔞",
+      "key": "色情Asmr",
+      "name": "色情Asmr.py｜🔞",
       "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/韩剧巴士🔞.py"
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/色情Asmr.py"
+    },
+    {
+      "key": "4k日本动漫",
+      "name": "4k日本动漫.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/4k日本动漫.py"
+    },
+    {
+      "key": "3d涩动漫",
+      "name": "3d涩动漫.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/3d涩动漫.py"
+    },
+    {
+      "key": "NaughtyMachinima动漫",
+      "name": "🐬NaughtyMachinima.py🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/NaughtyMachinima动漫🔞.py"
+    },
+    {
+      "key": "樱花动漫",
+      "name": "🐬樱花动漫.py🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/樱花动漫🔞.py"
+    },
+    {
+      "key": "hanime1",
+      "name": "🐬hanime1动漫.py🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/hanime1.py"
+    },
+    {
+      "key": "acFan🔞",
+      "name": "acFan🔞.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/acFan🔞.py"
+    },
+    {
+      "key": "Uaa",
+      "name": "Uaa.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/Uaa.py"
+    },
+    {
+      "key": "UAA",
+      "name": "🐬UAA.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/UAA🔞.py"
+    },
+    {
+      "key": "推特APP",
+      "name": "推特APP.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/推特APP.py"
+    },
+    {
+      "key": "推特涩涩",
+      "name": "推特涩涩.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/推特涩涩.py"
     },
     {
       "key": "海角乱伦",
       "name": "🐬海角乱伦(关梯).py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/海角乱伦🔞.py"
+    },
+    {
+      "key": "肉视频",
+      "name": "肉视频｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/肉视频.py"
+    },
+    {
+      "key": "茄子精品",
+      "name": "茄子精品.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/茄子精品.py"
+    },
+    {
+      "key": "小红薯APP",
+      "name": "小红薯APP.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/小红薯APP.py"
+    },
+    {
+      "key": "XChina",
+      "name": "XChina.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/XChina.py"
+    },
+    {
+      "key": "笔盒",
+      "name": "笔盒.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/笔盒.py"
+    },
+    {
+      "key": "抖阴",
+      "name": "抖阴.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/抖阴.py"
+    },
+    {
+      "key": "qinav",
+      "name": "qinav.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/qinav.py"
+    },
+    {
+      "key": "小黄书",
+      "name": "小黄书.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/小黄书.py"
+    },
+    {
+      "key": "18av（免梯）",
+      "name": "18av.py（免梯）｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/18av.py"
+    },
+    {
+      "key": "18AV（免梯）",
+      "name": "18AV.py（免梯）｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/18AV.py"
+    },
+    {
+      "key": "黄色仓库动态版",
+      "name": "🐬黄色仓库动态版.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/黄色仓库动态版.py"
+    },
+    {
+      "key": "E佬通用视频 (3)",
+      "name": "E佬通用视频 (3).py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/E佬通用视频 (3).py"
+    },
+    {
+      "key": "madou8_domestic",
+      "name": "麻豆8国内线路｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/madou8_domestic.py"
+    },
+    {
+      "key": "麻豆社",
+      "name": "麻豆社.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/麻豆社.py"
+    },
+    {
+      "key": "女优色库",
+      "name": "女优色库｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/女优色库.py"
+    },
+    {
+      "key": "Youtube",
+      "name": "Youtube.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/YouTube.py"
+    },
+    {
+      "key": "rolizxwnoble",
+      "name": "rolizxwnoble｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/rolizxwnoble.py"
+    },
+    {
+      "key": "shaofu36",
+      "name": "shaofu36｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/shaofu36.py"
+    },
+    {
+      "key": "xx01",
+      "name": "xx01｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/xx01.py"
+    },
+    {
+      "key": "8X8X",
+      "name": "🐬8X8X.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/8X8X.py"
+    },
+    {
+      "key": "JAV36",
+      "name": "🐬JAV36.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/JAV36.py"
+    },
+    {
+      "key": "TOPTV",
+      "name": "🐬TOPTV.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/TOPTV.py"
     },
     {
       "key": "蜜桃AV",
@@ -755,34 +1271,10 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/av3698🔞.py"
     },
     {
-      "key": "91porna",
-      "name": "🐬91porna.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/91porna🔞.py"
-    },
-    {
       "key": "爆色",
       "name": "🐬爆色.py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/爆色🔞.py"
-    },
-    {
-      "key": "TnAflix",
-      "name": "🐬TnAflix.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/TnAflix🔞.py"
-    },
-    {
-      "key": "kiss",
-      "name": "🐬kiss.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/kiss🔞.py"
-    },
-    {
-      "key": "91热爆",
-      "name": "🐬91热爆.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/91热爆🔞.py"
     },
     {
       "key": "真实未流出",
@@ -831,18 +1323,6 @@
       "name": "🐬陌陌一夜情.py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/陌陌一夜情🔞.py"
-    },
-    {
-      "key": "fulleroticmovies",
-      "name": "🐬fulleroticmovies怀旧经典.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/fulleroticmovies🔞.py"
-    },
-    {
-      "key": "UAA",
-      "name": "🐬UAA.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/UAA🔞.py"
     },
     {
       "key": "小心御欲",
@@ -905,12 +1385,6 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/教授.py"
     },
     {
-      "key": "91Porn蝌蚪窝",
-      "name": "🐬91Porn蝌蚪窝.py🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/91Porn蝌蚪窝.py"
-    },
-    {
       "key": "爆片库",
       "name": "🐬爆片库.py🔞",
       "type": 3,
@@ -929,30 +1403,6 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/亚色影库.py"
     },
     {
-      "key": "NaughtyMachinima动漫",
-      "name": "🐬NaughtyMachinima.py🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/NaughtyMachinima动漫🔞.py"
-    },
-    {
-      "key": "樱花动漫",
-      "name": "🐬樱花动漫.py🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/樱花动漫🔞.py"
-    },
-    {
-      "key": "HS日本4K动漫",
-      "name": "🐬HS日本4K动漫.py🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/HS日本4K动漫🔞.py"
-    },
-    {
-      "key": "hanime1",
-      "name": "🐬hanime1动漫.py🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/hanime1.py"
-    },
-    {
       "key": "真实人妻",
       "name": "🐬真实人妻.py｜🔞",
       "type": 3,
@@ -965,22 +1415,10 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/樱花传媒.py"
     },
     {
-      "key": "BadNews",
-      "name": "🐬BadNews.py｜🔞(挂梯)",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/BadNews.py"
-    },
-    {
       "key": "prsd",
       "name": "🐬怦然心动.py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/怦然心动.py"
-    },
-    {
-      "key": "黄色仓库动态版",
-      "name": "🐬黄色仓库动态版.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/黄色仓库动态版.py"
     },
     {
       "key": "hgsq",
@@ -1013,148 +1451,10 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/香肠派对.py"
     },
     {
-      "key": "8X8X",
-      "name": "🐬8X8X.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/8X8X.py"
-    },
-    {
-      "key": "Jable",
-      "name": "🐬Jable.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/Jable.py"
-    },
-    {
-      "key": "jabie(2)",
-      "name": "jabie(2).py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/jabie(2).py"
-    },
-    {
-      "key": "jable54",
-      "name": "jable54.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/jable54.py"
-    },
-    {
-      "key": "Jable直播放",
-      "name": "Jable直播放.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/Jable直播放.py"
-    },
-    {
-      "key": "AdultpornaAV",
-      "name": "🐬AdultpornaAV.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/AdultpornaAV.py"
-    },
-    {
-      "key": "Xvideos",
-      "name": "🐬Xvideos.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/Xvideos.py"
-    },
-    {
-      "key": "Pornhub",
-      "name": "🐬Pornhub.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/Pornhub.py"
-    },
-    {
-      "key": "xhamster",
-      "name": "🐬xhamster.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/xhamster.py"
-    },
-    {
-      "key": "xhamster_photos",
-      "name": "xhamster图.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/xhamster_photos.py"
-    },
-    {
-      "key": "eporner",
-      "name": "🐬EPORNER.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/EPORNER.py"
-    },
-    {
-      "key": "91porn",
-      "name": "🐬91porn.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/91porn.py"
-    },
-    {
-      "key": "fullhd",
-      "name": "🐬FullHD.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/FullHD.py"
-    },
-    {
-      "key": "JAV36",
-      "name": "🐬JAV36.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/JAV36.py"
-    },
-    {
-      "key": "TOPTV",
-      "name": "🐬TOPTV.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/TOPTV.py"
-    },
-    {
-      "key": "missav-app",
-      "name": "missav-app.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/missav-app.py"
-    },
-    {
-      "key": "MIssA",
-      "name": "MIssA.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/MIssA.py"
-    },
-    {
-      "key": "MissAV",
-      "name": "MissAV.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/MissAV.py"
-    },
-    {
-      "key": "MissAV123",
-      "name": "MissAV123.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/MissAV123.py"
-    },
-    {
-      "key": "missav666",
-      "name": "missav666.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/missav666.py"
-    },
-    {
-      "key": "推特涩涩",
-      "name": "推特涩涩.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/推特涩涩.py"
-    },
-    {
-      "key": "yyds直播",
-      "name": "yyds直播.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/yyds直播.py"
-    },
-    {
       "key": "风月阁",
       "name": "风月阁.py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/风月阁.py"
-    },
-    {
-      "key": "xszav",
-      "name": "xszav.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/xszav.py"
     },
     {
       "key": "花千色",
@@ -1181,112 +1481,16 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/午夜剧场.py"
     },
     {
-      "key": "FCJAV",
-      "name": "FCJAV.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/FCJAV.py"
-    },
-    {
-      "key": "一线黑料",
-      "name": "一线黑料.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/一线黑料.py"
-    },
-    {
-      "key": "ggjav",
-      "name": "ggjav.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/ggjav.py"
-    },
-    {
-      "key": "qinav",
-      "name": "qinav.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/qinav.py"
-    },
-    {
-      "key": "小黄书",
-      "name": "小黄书.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/小黄书.py"
-    },
-    {
-      "key": "3d涩动漫",
-      "name": "3d涩动漫.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/3d涩动漫.py"
-    },
-    {
-      "key": "91动漫",
-      "name": "91动漫.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/91动漫.py"
-    },
-    {
-      "key": "18av（免梯）",
-      "name": "18av.py（免梯）｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/18av.py"
-    },
-    {
-      "key": "18AV（免梯）",
-      "name": "18AV.py（免梯）｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/18AV.py"
-    },
-    {
-      "key": "javfree",
-      "name": "javfree.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/javfree.py"
-    },
-    {
-      "key": "javhd",
-      "name": "javhd.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/javhd.py"
-    },
-    {
       "key": "mjv011四百个个分类",
       "name": "mjv011四百个个分类.py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/mjv011四百个个分类.py"
     },
     {
-      "key": "XChina",
-      "name": "XChina.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/XChina.py"
-    },
-    {
-      "key": "笔盒",
-      "name": "笔盒.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/笔盒.py"
-    },
-    {
-      "key": "抖阴",
-      "name": "抖阴.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/抖阴.py"
-    },
-    {
-      "key": "每日大乱斗",
-      "name": "每日大乱斗.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/每日大乱斗.py"
-    },
-    {
       "key": "骚女档案馆",
       "name": "骚女档案馆.py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/骚女档案馆.py"
-    },
-    {
-      "key": "色情Asmr",
-      "name": "色情Asmr.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/色情Asmr.py"
     },
     {
       "key": "熟妇天堂",
@@ -1299,18 +1503,6 @@
       "name": "熟女汇修复翻页.py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/熟女汇修复翻页.py"
-    },
-    {
-      "key": "推特APP",
-      "name": "推特APP.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/推特APP.py"
-    },
-    {
-      "key": "小红薯APP",
-      "name": "小红薯APP.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/小红薯APP.py"
     },
     {
       "key": "一抖阁8",
@@ -1331,34 +1523,10 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/直播录屏.py"
     },
     {
-      "key": "4k日本动漫",
-      "name": "4k日本动漫.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/4k日本动漫.py"
-    },
-    {
-      "key": "theporny",
-      "name": "theporny.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/theporny.py"
-    },
-    {
       "key": "鉴黄师_v5",
       "name": "鉴黄师_v5.py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/鉴黄师_v5.py"
-    },
-    {
-      "key": "91吃瓜喽(瑟+瓜)",
-      "name": "91吃瓜喽(瑟+瓜).py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/91吃瓜喽(瑟+瓜).py"
-    },
-    {
-      "key": "91出品短剧",
-      "name": "91出品短剧.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/91出品短剧.py"
     },
     {
       "key": "AV妞",
@@ -1367,64 +1535,16 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/AV妞.py"
     },
     {
-      "key": "pornlulu",
-      "name": "pornlulu.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/pornlulu.py"
-    },
-    {
-      "key": "黑料",
-      "name": "黑料.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/黑料.py"
-    },
-    {
       "key": "九九归一",
       "name": "九九归一.py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/九九归一.py"
     },
     {
-      "key": "茄子精品",
-      "name": "茄子精品.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/茄子精品.py"
-    },
-    {
-      "key": "acFan🔞",
-      "name": "acFan🔞.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/acFan🔞.py"
-    },
-    {
-      "key": "avjoy",
-      "name": "avjoy.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/avjoy.py"
-    },
-    {
-      "key": "E佬通用视频 (3)",
-      "name": "E佬通用视频 (3).py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/E佬通用视频 (3).py"
-    },
-    {
-      "key": "javdb新",
-      "name": "javdb新.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/javdb新.py"
-    },
-    {
       "key": "UU直播破解",
       "name": "UU直播破解.py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/UU直播破解.py"
-    },
-    {
-      "key": "Uaa",
-      "name": "Uaa.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/Uaa.py"
     },
     {
       "key": "东京淫联",
@@ -1451,82 +1571,10 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/乳香影院.py"
     },
     {
-      "key": "有声小说",
-      "name": "有声小说.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/有声小说.py"
-    },
-    {
-      "key": "黄豆短剧_v3",
-      "name": "黄豆短剧_v3.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/黄豆短剧_v3.py"
-    },
-    {
-      "key": "黄豆短剧_v2",
-      "name": "黄豆短剧_v2.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/黄豆短剧_v2.py"
-    },
-    {
-      "key": "huangdou",
-      "name": "huangdou｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/huangdou.py"
-    },
-    {
-      "key": "huangguo",
-      "name": "huangguo.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/huangguo.py"
-    },
-    {
-      "key": "huangguo1",
-      "name": "huangguo1.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/huangguo1.py"
-    },
-    {
-      "key": "黄果漫剧",
-      "name": "黄果漫剧｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/黄果漫剧.py"
-    },
-    {
       "key": "懂色帝",
       "name": "懂色帝.py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/懂色帝.py"
-    },
-    {
-      "key": "xvideos个人轮巡版",
-      "name": "xvideos个人轮巡版.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/xvideos个人轮巡版.py"
-    },
-    {
-      "key": "黑料论坛",
-      "name": "黑料论坛.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/黑料论坛.py"
-    },
-    {
-      "key": "57短剧",
-      "name": "57短剧.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/57短剧.py"
-    },
-    {
-      "key": "avtoday",
-      "name": "avtoday.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/avtoday.py"
-    },
-    {
-      "key": "supjav_CF",
-      "name": "supjav_CF｜🔞",
-      "type": 3,
-      "api": "https://pan.szfx.top/down.php/1869fa900e001b1b0d6b5dfd6934ca46.py"
     },
     {
       "key": "咸鱼传媒",
@@ -1539,12 +1587,6 @@
       "name": "淫花宫｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/淫花宫.py"
-    },
-    {
-      "key": "getav",
-      "name": "getav｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/getav.py"
     },
     {
       "key": "88影视(秒播)",
@@ -1563,60 +1605,6 @@
       "name": "悟空传媒｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/悟空传媒.py"
-    },
-    {
-      "key": "57短剧",
-      "name": "57短剧｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/57短剧.py"
-    },
-    {
-      "key": "青桔短剧",
-      "name": "青桔短剧.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/青桔短剧.py"
-    },
-    {
-      "key": "Youtube",
-      "name": "Youtube.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/YouTube.py"
-    },
-    {
-      "key": "rolizxwnoble",
-      "name": "rolizxwnoble｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/rolizxwnoble.py"
-    },
-    {
-      "key": "shaofu36",
-      "name": "shaofu36｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/shaofu36.py"
-    },
-    {
-      "key": "xigua51",
-      "name": "xigua51｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/xigua51.py"
-    },
-    {
-      "key": "xx01",
-      "name": "xx01｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/xx01.py"
-    },
-    {
-      "key": "bestjavporn",
-      "name": "bestjavporn｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/bestjavporn.py"
-    },
-    {
-      "key": "freepornvideos",
-      "name": "freepornvideos｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/freepornvideos.py"
     },
     {
       "key": "顶一顶娇娃",
@@ -1655,112 +1643,10 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/2av.py"
     },
     {
-      "key": "123AV",
-      "name": "123AV｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/123AV.py"
-    },
-    {
       "key": "luoju",
       "name": "luoju｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/luoju.py"
-    },
-    {
-      "key": "51短剧",
-      "name": "51短剧｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/51短剧.py"
-    },
-    {
-      "key": "57吃瓜",
-      "name": "57吃瓜｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/57吃瓜.py"
-    },
-    {
-      "key": "91成人短剧",
-      "name": "91成人短剧｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/91成人短剧.py"
-    },
-    {
-      "key": "javmenu",
-      "name": "javmenu｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/javmenu.py"
-    },
-    {
-      "key": "madou8",
-      "name": "麻豆8｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/madou8.py"
-    },
-    {
-      "key": "madou8_domestic",
-      "name": "麻豆8国内线路｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/madou8_domestic.py"
-    },
-    {
-      "key": "麻豆社",
-      "name": "🐬麻豆社.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/麻豆社.py"
-    },
-    {
-      "key": "Pexels视频1",
-      "name": "Pexels视频1｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/Pexels视频1.py"
-    },
-    {
-      "key": "owoav",
-      "name": "owoav｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/owoav.py"
-    },
-    {
-      "key": "tangdou",
-      "name": "tangdou｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/tangdou.py"
-    },
-    {
-      "key": "youav",
-      "name": "youav｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/youav.py"
-    },
-    {
-      "key": "懂片帝",
-      "name": "懂片帝｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/懂片帝.py"
-    },
-    {
-      "key": "女优色库",
-      "name": "女优色库｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/女优色库.py"
-    },
-    {
-      "key": "肉视频",
-      "name": "肉视频｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/肉视频.py"
-    },
-    {
-      "key": "午夜TV",
-      "name": "午夜TV｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/午夜TV.py"
-    },
-    {
-      "key": "玉蚌含珠",
-      "name": "玉蚌含珠｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/玉蚌含珠.py"
     },
     {
       "key": "玉女百科",
