@@ -23,7 +23,7 @@
     },
     {
       "key": "哔哩影视",
-      "name": "哔哩影视",
+      "name": "哔哩影视.py",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/哔哩影视.py"
     },
@@ -228,19 +228,19 @@
     },
     {
       "key": "极速追剧",
-      "name": "极速追剧",
+      "name": "极速追剧.py",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/极速追剧.py"
     },
     {
       "key": "一起看",
-      "name": "一起看",
+      "name": "一起看.py",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/一起看.py"
     },
     {
       "key": "移动4k",
-      "name": "移动4k",
+      "name": "移动4k.py",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/移动4k.py"
     },
@@ -374,7 +374,7 @@
     },
     {
       "key": "n029",
-      "name": "n029",
+      "name": "n029.py",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/n029.py"
     },
