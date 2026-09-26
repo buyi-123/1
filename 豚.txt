@@ -34,12 +34,6 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/油管.py"
     },
     {
-      "key": "kf",
-      "name": "🐬咖啡体育直播.py",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/咖啡直播.py"
-    },
-    {
       "key": "blzb",
       "name": "🐬哔哩直播.py",
       "type": 3,
