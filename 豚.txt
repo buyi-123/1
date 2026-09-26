@@ -1,17 +1,17 @@
 {
   "spider": "",
   "wallpaper": "https://饭的动态壁纸.xxooo.cf",
-  "warningText": "资源来自网络",
+  "warningText": "资源来自网络-海豚影视（源）",
   "sites": [
     {
       "key": "MGtv",
-      "name": "🐬芒果TV.py 海豚影视接口完全免费，请勿上当受骗",
+      "name": "🐬芒果TV.py",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/芒果TV.py"
     },
     {
       "key": "txvm",
-      "name": "🐬腾讯视频.py 海豚影视交流群 TG：@hshsjk9",
+      "name": "🐬腾讯视频.py",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/腾讯视频.py"
     },
