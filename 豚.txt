@@ -826,6 +826,12 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/kiss🔞.py"
     },
     {
+      "key": "FCJAVXF",
+      "name": "FCJAVXF.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/FCJAVXF.py"
+    },
+    {
       "key": "818黑料网",
       "name": "818黑料网.py｜🔞",
       "type": 3,
@@ -878,6 +884,30 @@
       "name": "57吃瓜.py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/57吃瓜.py"
+    },
+    {
+      "key": "51爆料终极完美版",
+      "name": "51爆料终极完美版.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/51爆料终极完美版.py"
+    },
+    {
+      "key": "51大赛终极完美版",
+      "name": "51大赛终极完美版.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/51大赛终极完美版.py"
+    },
+    {
+      "key": "91吃瓜中心终极完美版",
+      "name": "91吃瓜中心终极完美版.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/91吃瓜中心终极完美版.py"
+    },
+    {
+      "key": "网页吃瓜",
+      "name": "网页吃瓜.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/网页吃瓜.py"
     },
     {
       "key": "91吃瓜中心",
@@ -1070,6 +1100,12 @@
       "name": "海角乱伦(关梯).py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/海角乱伦🔞.py"
+    },
+    {
+      "key": "海角",
+      "name": "海角.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/海角.py"
     },
     {
       "key": "肉视频",
@@ -1556,60 +1592,6 @@
       "name": "小马拉车.py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/小马拉车.py"
-    },
-    {
-      "key": "51爆料终极完美版",
-      "name": "51爆料终极完美版.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/51爆料终极完美版.py"
-    },
-    {
-      "key": "51大赛终极完美版",
-      "name": "51大赛终极完美版.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/51大赛终极完美版.py"
-    },
-    {
-      "key": "91吃瓜中心终极完美版",
-      "name": "91吃瓜中心终极完美版.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/91吃瓜中心终极完美版.py"
-    },
-    {
-      "key": "FCJAVXF",
-      "name": "FCJAVXF.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/FCJAVXF.py"
-    },
-    {
-      "key": "海角",
-      "name": "海角.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/海角.py"
-    },
-    {
-      "key": "快播至臻版",
-      "name": "快播至臻版.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/快播至臻版.py"
-    },
-    {
-      "key": "男人本色",
-      "name": "男人本色.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/男人本色.py"
-    },
-    {
-      "key": "色窝窝",
-      "name": "色窝窝.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/色窝窝.py"
-    },
-    {
-      "key": "汤头条",
-      "name": "汤头条.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/汤头条.py"
     },
     {
       "key": "中国x站",
