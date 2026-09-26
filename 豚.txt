@@ -630,13 +630,13 @@
     },
     {
       "key": "UVOD",
-      "name": "🐬优视频.py 有🔞",
+      "name": "🐬优视频.py",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/优视频.py"
     },
     {
       "key": "xyzkk",
-      "name": "🐬小鸭子看看.py 有🔞",
+      "name": "🐬小鸭子看看.py",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/小鸭子看看.py"
     },
@@ -969,12 +969,6 @@
       "name": "🐬BadNews.py｜🔞(挂梯)",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/BadNews.py"
-    },
-    {
-      "key": "麻豆社",
-      "name": "🐬麻豆社.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/麻豆社.py"
     },
     {
       "key": "prsd",
@@ -1439,12 +1433,6 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/东京淫联.py"
     },
     {
-      "key": "黄豆短剧 2",
-      "name": "黄豆短剧 2.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/黄豆短剧 2.py"
-    },
-    {
       "key": "七哥大洋马",
       "name": "七哥大洋马.py｜🔞",
       "type": 3,
@@ -1475,10 +1463,34 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/黄豆短剧_v3.py"
     },
     {
+      "key": "黄豆短剧_v2",
+      "name": "黄豆短剧_v2.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/黄豆短剧_v2.py"
+    },
+    {
+      "key": "huangdou",
+      "name": "huangdou｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/huangdou.py"
+    },
+    {
       "key": "huangguo",
       "name": "huangguo.py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/huangguo.py"
+    },
+    {
+      "key": "huangguo1",
+      "name": "huangguo1.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/huangguo1.py"
+    },
+    {
+      "key": "黄果漫剧",
+      "name": "黄果漫剧｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/黄果漫剧.py"
     },
     {
       "key": "懂色帝",
@@ -1655,12 +1667,6 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/luoju.py"
     },
     {
-      "key": "黄果漫剧",
-      "name": "黄果漫剧｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/黄果漫剧.py"
-    },
-    {
       "key": "51短剧",
       "name": "51短剧｜🔞",
       "type": 3,
@@ -1679,12 +1685,6 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/91成人短剧.py"
     },
     {
-      "key": "huangdou",
-      "name": "huangdou｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/huangdou.py"
-    },
-    {
       "key": "javmenu",
       "name": "javmenu｜🔞",
       "type": 3,
@@ -1701,6 +1701,12 @@
       "name": "麻豆8国内线路｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/madou8_domestic.py"
+    },
+    {
+      "key": "麻豆社",
+      "name": "🐬麻豆社.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/麻豆社.py"
     },
     {
       "key": "Pexels视频1",
