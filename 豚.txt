@@ -28,12 +28,6 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/哔哩影视.py"
     },
     {
-      "key": "番茄视频",
-      "name": "番茄视频.py",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/番茄视频.py"
-    },
-    {
       "key": "youtube",
       "name": "油管.py",
       "type": 3,
@@ -128,12 +122,6 @@
       "name": "短剧聚合.py",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/短剧聚合.py"
-    },
-    {
-      "key": "全球广播",
-      "name": "全球广播.py",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/全球广播.py"
     },
     {
       "key": "ytb",
@@ -1184,6 +1172,12 @@
       "name": "阅妹阁聚合.py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/阅妹阁聚合.py"
+    },
+    {
+      "key": "番茄视频",
+      "name": "番茄视频.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/番茄视频.py"
     },
     {
       "key": "18av（免梯）",
