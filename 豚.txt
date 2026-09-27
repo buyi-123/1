@@ -28,6 +28,12 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/哔哩影视.py"
     },
     {
+      "key": "番茄视频",
+      "name": "番茄视频.py",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/番茄视频.py"
+    },
+    {
       "key": "youtube",
       "name": "油管.py",
       "type": 3,
@@ -1172,6 +1178,12 @@
       "name": "小黄书.py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/小黄书.py"
+    },
+    {
+      "key": "阅妹阁聚合",
+      "name": "阅妹阁聚合.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/阅妹阁聚合.py"
     },
     {
       "key": "18av（免梯）",
