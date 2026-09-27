@@ -78,7 +78,6 @@ Jstar,http://154.94.104.4/pull-f5.flive.douyincdn.com/live/f41c265b4bf13ef0581c6
 HOT,http://154.94.104.5/pull-f5.flive.douyincdn.com/live/8cef75c0e70f2221d0e52729838727dc.flv
 Happy,http://104.166.141.237/pull-f5.flive.douyincdn.com/live/ec3a13d242653fec2166d0d9d4d120ce.flv
 Hiplay,http://154.94.104.5/pull-f5.flive.douyincdn.com/live/9f41bc9787c72af0a00fa547419a410a.flv
-
 彩虹R,http://58.99.33.2:1935/liveedge2/TnIsFYAs_408_1/chunklist_w114642605.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
 松視1台,http://58.99.33.2:1935/liveedge2/TnIsFYAs_405_1/chunklist_w2097694717.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&=&dr=123&dt=&cust_type=NE
 松視2台,http://58.99.33.2:1935/liveedge2/TnIsFYAs_406_1/chunklist_w1350191092.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
@@ -92,7 +91,6 @@ HOT,http://58.99.33.2:1935/liveedge2/TnIsFYAs_403_1/chunklist_w452892769.m3u8?ch
 潘多拉粉红,http://58.99.33.2:1935/liveedge2/TnIsFYAs_412_1/chunklist_w452892769.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
 惊艳电影台,http://58.99.33.2:1935/liveedge2/TnIsFYAs_413_1/chunklist_w452892769.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
 香蕉台,http://58.99.33.2:1935/liveedge2/TnIsFYAs_414_1/chunklist_w452892769.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
-
 CARAC1,http://edge14.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
 CARAC5,https://edge14.vedge.infomaniak.com/livecast/ik:carac5/playlist.m3u8
 DMF,https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
@@ -107,21 +105,3 @@ Leo,http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
 Leo Gold,http://88.212.7.11/live/test_leogold_hd_hevc/playlist.m3u8
 Reality Kings,http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
 Dusk,http://88.212.7.11/live/test_dusk_sd_hevc/playlist.m3u8
-Playboy La,http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-Babes TV,https://cdn4.skygo.mn/live/disk1/Babes/HLSv3-FTA/Babes.m3u8
-Hustler HD XXX,http://78.130.250.2:8023/play/a03f/index.m3u8
-Brazzers TV,http://78.130.250.2:8023/play/a06f/index.m3u8
-Private HD XXX,http://78.130.250.2:8023/play/a03h/index.m3u8
-DORCEL TV HD,http://78.130.250.2:8023/play/a069/index.m3u8
-Redlight HD,http://78.130.250.2:8023/play/a05q/index.m3u8
-Blue Hustler XXX,http://78.130.250.2:8023/play/a03g/index.m3u8
-PINK EROTIC 3,http://143.244.63.87/pinkerotic3/playlist.m3u8
-PINK EROTIC 2,http://143.244.63.87/pinkerotic2/playlist.m3u8
-EROXXX,http://143.244.63.87/eroxxx/playlist.m3u8
-PENTHOUSE GOLD,http://185.98.209.11:81/penthouse1/index.m3u8?token=test
-PENTHOUSE REALITY,http://185.98.209.11:81/penthouse2/index.m3u8?token=test
-PLAYBOY TV,http://31.148.48.15:80/Playboy_TV/playlist.m3u8
-Playboy TV HD,http://5.57.74.130:8000/play/a0c8/index.m3u8
-PLAYBOY,http://148.230.149.45:1021/play/a01t/index.m3u8
-VENUS,http://148.230.149.45:1021/play/a01u/index.m3u8
-SEXTREM,http://148.230.149.45:1021/play/a01v/index.m3u8
