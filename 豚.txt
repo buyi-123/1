@@ -1,6 +1,6 @@
 {
   "spider": "",
-  "wallpaper": "https://饭的动态壁纸.xxooo.cf",
+  "wallpaper": "https://random-api.czl.net/pic/czlwb",
   "warningText": "资源来自网络-海豚影视（源）",
   "sites": [
     {
