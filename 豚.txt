@@ -112,10 +112,22 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/糯米短剧.py"
     },
     {
+      "key": "酷我短剧",
+      "name": "酷我短剧.py",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/酷我短剧.py"
+    },
+    {
       "key": "djjh",
       "name": "短剧聚合.py",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/短剧聚合.py"
+    },
+    {
+      "key": "全球广播",
+      "name": "全球广播.py",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/全球广播.py"
     },
     {
       "key": "ytb",
@@ -158,6 +170,12 @@
       "name": "枫叶音乐.py",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/枫叶音乐.py"
+    },
+    {
+      "key": "采集集合",
+      "name": "采集集合.py",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/采集集合.py"
     },
     {
       "key": "华人影视",
@@ -1298,6 +1316,18 @@
       "name": "九九归一.py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/九九归一.py"
+    },
+    {
+      "key": "93合1",
+      "name": "93合1.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/93合1.py"
+    },
+    {
+      "key": "18采集集合",
+      "name": "18采集集合.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/18采集集合.py"
     },
     {
       "key": "真它妈多分类",
