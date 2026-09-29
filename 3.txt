@@ -1,6 +1,6 @@
 {
   "spider": "",
-  "wallpaper": "https://eo-img.loliapi.cn/i/pc/img630.webp",
+  "wallpaper": "https://tu.ltyuanfang.cn/api/fengjing.php",
   "warningText": "资源来自网络-免费收集",
   "sites": [
     {
