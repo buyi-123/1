@@ -1288,6 +1288,12 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/熟妇天堂.py"
     },
     {
+      "key": "精仙阁修复版",
+      "name": "精仙阁修复版.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/精仙阁修复版.py"
+    },
+    {
       "key": "熟女汇修复翻页",
       "name": "熟女汇修复翻页.py｜🔞",
       "type": 3,
