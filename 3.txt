@@ -617,9 +617,15 @@
     },
     {
       "key": "stripchat",
-      "name": "stripchat直播.py｜🔞",
+      "name": "stripchat.py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/stripchat.py"
+    },
+    {
+      "key": "StripChat",
+      "name": "StripChat.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/StripChat.py"
     },
     {
       "key": "Cam4",
@@ -1022,6 +1028,18 @@
       "name": "黄果漫剧.py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/黄果漫剧.py"
+    },
+    {
+      "key": "2048成人短剧",
+      "name": "2048成人短剧.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/2048成人短剧.py"
+    },
+    {
+      "key": "禁果短剧",
+      "name": "禁果短剧.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/禁果短剧.py"
     },
     {
       "key": "91成人短剧",
@@ -1670,6 +1688,12 @@
       "name": "精英突击.py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/精英突击.py"
+    },
+    {
+      "key": "高清仓库",
+      "name": "高清仓库.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/高清仓库.py"
     },
     {
       "key": "玉女百科",
