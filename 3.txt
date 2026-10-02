@@ -16,19 +16,19 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/IQ国际.py"
     },
     {
-      "key": "MGtv",
+      "key": "芒果tv",
       "name": "芒果TV.py",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/芒果TV.py"
     },
     {
-      "key": "txvm",
+      "key": "腾讯视频",
       "name": "腾讯视频.py",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/腾讯视频.py"
     },
     {
-      "key": "YK",
+      "key": "优酷视频",
       "name": "优酷视频.py",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/优酷视频.py"
@@ -38,6 +38,12 @@
       "name": "哔哩影视.py",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/哔哩影视.py"
+    },
+    {
+      "key": "独播库",
+      "name": "独播库.py",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/独播库.py"
     },
     {
       "key": "全球更新",
@@ -64,7 +70,7 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/油管直播.py"
     },
     {
-      "key": "blzb",
+      "key": "bilibili",
       "name": "哔哩直播.py",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/哔哩直播.py"
@@ -76,7 +82,7 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/斗鱼.py"
     },
     {
-      "key": "jhzb",
+      "key": "聚合直播",
       "name": "聚合直播.py",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/聚合直播.py"
@@ -172,13 +178,13 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/悟圣短剧.py"
     },
     {
-      "key": "smdj",
+      "key": "星芽短剧",
       "name": "星芽短剧.py",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/星芽短剧.py"
     },
     {
-      "key": "hmjc",
+      "key": "河马剧场",
       "name": "河马剧场.py",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/河马剧场.py"
@@ -202,13 +208,13 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/短剧聚合.py"
     },
     {
-      "key": "ytb",
+      "key": "悦听吧",
       "name": "悦听吧.py",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/悦听吧.py"
     },
     {
-      "key": "275ts",
+      "key": "275听书",
       "name": "275听书.py",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/275听书.py"
@@ -226,7 +232,7 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/易听书网.py"
     },
     {
-      "key": "kwms",
+      "key": "酷我音乐",
       "name": "酷我音乐.py",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/酷我音乐.py"
@@ -372,7 +378,7 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/豆花影视.py"
     },
     {
-      "key": "qlys",
+      "key": "麒麟影视",
       "name": "麒麟影视.py",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/麒麟影视.py"
@@ -384,61 +390,61 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/4K影视.py"
     },
     {
-      "key": "ddyy",
+      "key": "低端影视",
       "name": "低端影视.py",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/低端影视.py"
     },
     {
-      "key": "rb",
+      "key": "热播AP",
       "name": "热播APP.py",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/热播APP.py"
     },
     {
-      "key": "GZ",
+      "key": "瓜子",
       "name": "瓜子APP.py",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/瓜子APP.py"
     },
     {
-      "key": "nnyy",
+      "key": "努努影院",
       "name": "努努影院.py",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/努努影院.py"
     },
     {
-      "key": "dnyy",
+      "key": "多瑙影院",
       "name": "多瑙影院.py",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/多瑙影院.py"
     },
     {
-      "key": "nvm",
+      "key": "泥视频",
       "name": "泥视频.py",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/泥视频.py"
     },
     {
-      "key": "QU",
+      "key": "奇优影院",
       "name": "奇优影院.py",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/奇优影院.py"
     },
     {
-      "key": "yl",
+      "key": "永乐视频",
       "name": "永乐视频.py",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/永乐视频.py"
     },
     {
-      "key": "mtyy",
+      "key": "麦田影院",
       "name": "麦田影院.py",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/麦田影院.py"
     },
     {
-      "key": "jgvy",
+      "key": "追光影视",
       "name": "追光影视.py",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/追光影视.py"
@@ -450,7 +456,7 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/爱看机器人.py"
     },
     {
-      "key": "jok",
+      "key": "剧OK",
       "name": "剧OK.py",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/剧OK.py"
@@ -462,19 +468,19 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/n029.py"
     },
     {
-      "key": "xhvm",
+      "key": "骚火影视",
       "name": "骚火影视.py",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/骚火影视.py"
     },
     {
-      "key": "ayf",
+      "key": "爱壹帆",
       "name": "爱壹帆影视.py",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/爱壹帆.py"
     },
     {
-      "key": "MH",
+      "key": "麻花影视",
       "name": "麻花影视.py",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/麻花影视.py"
@@ -486,31 +492,31 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/1234影视.py"
     },
     {
-      "key": "XH",
+      "key": "星河影视",
       "name": "星河影视.py",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/星河影视.py"
     },
     {
-      "key": "nmvm",
+      "key": "农民影视",
       "name": "农民影视.py",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/农民影视.py"
     },
     {
-      "key": "qmvm",
+      "key": "七猫影视",
       "name": "七猫影视.py",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/七猫影视.py"
     },
     {
-      "key": "wstv",
+      "key": "威视TV",
       "name": "威视TV.py",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/威视TV.py"
     },
     {
-      "key": "8tdy",
+      "key": "八天电影",
       "name": "八天电影.py",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/八天电影.py"
@@ -540,13 +546,13 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/奈飞工厂.py"
     },
     {
-      "key": "UVOD",
+      "key": "优视频",
       "name": "优视频.py",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/优视频.py"
     },
     {
-      "key": "xyzkk",
+      "key": "小鸭子看看",
       "name": "小鸭子看看.py",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/小鸭子看看.py"
@@ -601,37 +607,37 @@
       "changeable": 0
     },
     {
-      "key": "dsys",
+      "key": "毒舌影视",
       "name": "毒舌影视.py(关梯)",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/毒舌影视.py"
     },
     {
-      "key": "qw",
+      "key": "七味",
       "name": "七味.py(关梯)",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/七味.py"
     },
     {
-      "key": "hstv",
+      "key": "华数TV",
       "name": "华数TV.py(关梯)",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/华数TV.py"
     },
     {
-      "key": "58vy",
+      "key": "58影视",
       "name": "58影视.py(关梯)",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/58影视.py"
     },
     {
-      "key": "cbh",
+      "key": "茶杯狐",
       "name": "茶杯狐.py(关梯)",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/茶杯狐.py"
     },
     {
-      "key": "hxq",
+      "key": "韩小圈",
       "name": "韩小圈.py(关梯)",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/韩小圈.py"
@@ -649,19 +655,19 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/蝶卡影视.py"
     },
     {
-      "key": "teys",
+      "key": "太乙影视",
       "name": "太乙影视.py(关梯)",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/太乙影视.py"
     },
     {
-      "key": "808yr",
+      "key": "808影院",
       "name": "808影院.py(关梯)",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/808影院.py"
     },
     {
-      "key": "ddvm",
+      "key": "嘀嗒影视",
       "name": "嘀嗒影视.py(关梯)",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/嘀嗒影视.py"
@@ -712,7 +718,7 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/飞流视频.py"
     },
     {
-      "key": "shjb",
+      "key": "色播聚合",
       "name": "色播聚合.py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/色播聚合.py"
@@ -1228,7 +1234,7 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/91porna.py"
     },
     {
-      "key": "mrds",
+      "key": "每日大赛",
       "name": "每日大赛.py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/每日大赛.py"
@@ -1288,10 +1294,10 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/91成人短剧.py"
     },
     {
-      "key": "91crdj",
-      "name": "91crdj.py｜🔞",
+      "key": "91成人短剧_1",
+      "name": "91成人短剧_1.py｜🔞",
       "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/91crdj.py"
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/91成人短剧_1.py"
     },
     {
       "key": "91出品短剧",
@@ -1936,31 +1942,31 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/樱花传媒.py"
     },
     {
-      "key": "prsd",
+      "key": "怦然心动",
       "name": "怦然心动.py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/怦然心动.py"
     },
     {
-      "key": "hgsq",
+      "key": "韩国色情电影",
       "name": "韩国色情电影.py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/韩国色情电影.py"
     },
     {
-      "key": "smvm",
+      "key": "神秘电影",
       "name": "神秘电影.py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/神秘电影.py"
     },
     {
-      "key": "lyt",
+      "key": "撸一天",
       "name": "撸一天.py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/撸一天.py"
     },
     {
-      "key": "scpd",
+      "key": "香肠派对",
       "name": "香肠派对.py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/香肠派对.py"
