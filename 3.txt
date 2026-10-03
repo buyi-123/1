@@ -856,12 +856,6 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/supjav.py"
     },
     {
-      "key": "supjav_1",
-      "name": "supjav_1.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/supjav_1.py"
-    },
-    {
       "key": "javdb",
       "name": "javdb.py｜🔞",
       "type": 3,
@@ -940,12 +934,6 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/missav_3.py"
     },
     {
-      "key": "missav_4",
-      "name": "missav_4.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/missav_4.py"
-    },
-    {
       "key": "Jable",
       "name": "Jable.py｜🔞",
       "type": 3,
@@ -956,18 +944,6 @@
       "name": "Jabie_1.py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/Jabie_1.py"
-    },
-    {
-      "key": "Jabie_2",
-      "name": "Jabie_2.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/Jabie_2.py"
-    },
-    {
-      "key": "Jabie_3",
-      "name": "Jabie_3.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/Jabie_3.py"
     },
     {
       "key": "AdultpornaAV",
