@@ -178,6 +178,12 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/共和国动漫.py"
     },
     {
+      "key": "短剧聚合",
+      "name": "短剧聚合.py",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/短剧聚合.py"
+    },
+    {
       "key": "喜福网",
       "name": "喜福短剧.py",
       "type": 3,
@@ -958,10 +964,10 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/Jable.py"
     },
     {
-      "key": "Jable_1",
-      "name": "Jable_1.py｜🔞",
+      "key": "Jable直播放",
+      "name": "Jable直播放.py｜🔞",
       "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/Jable_1.py"
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/Jable直播放.py"
     },
     {
       "key": "Jable_2",
