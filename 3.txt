@@ -16,6 +16,36 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/IQ国际.py"
     },
     {
+      "key": "红果短剧new",
+      "name": "红果短剧new.py",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/红果短剧new.py"
+    },
+    {
+      "key": "红果短剧最终版",
+      "name": "红果短剧最终版.py",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/红果短剧最终版.py"
+    },
+    {
+      "key": "蜜桃视频",
+      "name": "蜜桃视频.py",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/蜜桃视频.py"
+    },
+    {
+      "key": "听友合体",
+      "name": "听友合体.py",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/听友合体.py"
+    },
+    {
+      "key": "小苹果",
+      "name": "小苹果.py",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/小苹果.py"
+    },
+    {
       "key": "芒果tv",
       "name": "芒果TV.py",
       "type": 3,
@@ -938,12 +968,6 @@
       "name": "Jable.py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/Jable.py"
-    },
-    {
-      "key": "Jabie_1",
-      "name": "Jabie_1.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/Jabie_1.py"
     },
     {
       "key": "AdultpornaAV",
