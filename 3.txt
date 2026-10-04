@@ -958,12 +958,6 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/Jable.py"
     },
     {
-      "key": "Jable11",
-      "name": "Jable11.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/Jable11.py"
-    },
-    {
       "key": "Jable_1",
       "name": "Jable_1.py｜🔞",
       "type": 3,
