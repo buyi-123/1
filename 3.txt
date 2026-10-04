@@ -214,12 +214,6 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/酷我短剧.py"
     },
     {
-      "key": "短剧聚合",
-      "name": "短剧聚合.py",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/短剧聚合.py"
-    },
-    {
       "key": "听友合体",
       "name": "听友合体.py",
       "type": 3,
@@ -1298,6 +1292,12 @@
       "name": "黄果漫剧.py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/黄果漫剧.py"
+    },
+    {
+      "key": "黄果剧场",
+      "name": "黄果剧场.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/黄果剧场.py"
     },
     {
       "key": "2048成人短剧",
