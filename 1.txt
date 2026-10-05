@@ -19,32 +19,13 @@ http://125.227.210.55:1022/VideoInput/play.ts
 http://125.227.210.55:3016/VideoInput/play.ts
 #EXTINF:-1 group-title="快乐頻道（挂梯）" tvg-logo="",Sex girl(125)
 http://125.227.210.55:3031/VideoInput/play.ts
-#EXTINF:-1 group-title="快乐頻道（挂梯）" tvg-logo="https://www.ourshdtv.com/static/index/images/logo/logo_727_346.png",奧視3台(125)
-http://125.227.210.55:3033/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="https://www.cns-net-tw.speedycdn.click/web/upload/20141014174815AC3NVWC.png" group-title="快乐頻道（挂梯）",松视1台
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
+#EXTINF:-1 tvg-logo="https://www.cns-net-tw.speedycdn.click/web/upload/20141017171414PCw2jYN.png" group-title="快乐頻道（挂梯）",松视2台
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
+#EXTINF:-1 tvg-logo="https://www.cns-net-tw.speedycdn.click/web/upload/201410171714027yS2M7G.png" group-title="快乐頻道（挂梯）",松视3台
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
 
-#EXTM3U  url-tvg="https://epg.pw/xmltv/epg.xml.gz,https://xmltvfr.fr/xmltv/xmltv_fr.xml.gz"
-#EXTINF:-1 group-title="PRIVADO" tvg-id="456832" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/Rainbow%20Movie.png",彩虹電影台
-http://atryffad.usa3.345123.xyz/jrw.php?id=Rainbowmovie
-#EXTINF:-1 group-title="PRIVADO" tvg-id="456845" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/happy.jpg",Happy
-http://atryffad.usa3.345123.xyz/jrw.php?id=HappyHD
-#EXTINF:-1 group-title="PRIVADO" tvg-id="456833" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/k.png",K 頻道
-http://atryffad.usa3.345123.xyz/jrw.php?id=RainBowK
-#EXTINF:-1 group-title="PRIVADO",彩虹e台
-http://atryffad.usa3.345123.xyz/jrw.php?id=RainBowEhd
-#EXTINF:-1 group-title="PRIVADO",JStar極限台電影頻道
-http://atryffad.usa3.345123.xyz/jrw.php?id=JStarMovies
-#EXTINF:-1 group-title="PRIVADO",香蕉台
-http://atryffad.usa3.345123.xyz/jrw.php?id=Bananachannel
-#EXTINF:-1 group-title="PRIVADO",惊艳台
-http://atryffad.usa3.345123.xyz/jrw.php?id=Amazingchannel
-#EXTINF:-1 group-title="PRIVADO",潘朵啦玩美台
-http://atryffad.usa3.345123.xyz/jrw.php?id=PandoraWanmei
-#EXTINF:-1 group-title="PRIVADO",松视1
-http://atryffad.usa3.345123.xyz/jrw.php?id=sonsee1
-#EXTINF:-1 group-title="PRIVADO",松视2
-http://atryffad.usa3.345123.xyz/jrw.php?id=sonsee2
-#EXTINF:-1 group-title="PRIVADO",松视3
-http://atryffad.usa3.345123.xyz/jrw.php?id=SonSee3hd
 #EXTINF:-1 group-title="PRIVADO" tvg-id="456841" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/amazing_tv.png",驚豔台
 http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/85
 #EXTINF:-1 group-title="PRIVADO" tvg-id="456838" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/pandora_perfect.png",潘朵啦玩美台
@@ -71,12 +52,6 @@ https://z3.ubtvfans.com/live/rx3/410/4bed718a67aa82a3c0c30be5919498f7/index.m3u8
 https://z3.ubtvfans.com/live/rx3/415/15b51d347d222d169964b2bcf3535be2/index.m3u8
 #EXTINF:-1 group-title="PRIVADO",JStar
 https://z3.ubtvfans.com/live/rx3/2909/7ea5f8d0bef36a6a3503e2d148873d07/index.m3u8
-#EXTINF:-1 group-title="PRIVADO",彩虹频道
-https://z3.ubtvfans.com/live/rx5/2914/970e6b93d6cf6a4c26b6adfcc6b05445/index.m3u8
-#EXTINF:-1 group-title="PRIVADO",奥视频道
-https://z3.ubtvfans.com/live/rx5/2915/97f674dacae533e3aea1346bf062d60c/index.m3u8
-#EXTINF:-1 group-title="PRIVADO",奥视频道2
-https://z3.ubtvfans.com/live/rx5/2916/e6fef1f52b41a9f7c8661ce1a3ac95b8/index.m3u8
 #EXTINF:-1 group-title="PRIVADO",Banana香蕉
 https://z3.ubtvfans.com/live/rx3/2930/6afc9e96b2b744c62a4a0fcbe92f6b7a/index.m3u8
 #EXTINF:-1 group-title="PRIVADO",LOOK
@@ -113,8 +88,6 @@ https://z3.ubtvfans.com/live/rx4/3098/47ef39a83255e5dbb5165f1156561c21/index.m3u
 https://z3.ubtvfans.com/live/rx4/3100/81fe7d0e042652df32f7570cf7671df0/index.m3u8
 #EXTINF:-1 group-title="PRIVADO",FAKE COP
 https://z3.ubtvfans.com/live/rx4/3102/6ad841187b9781f13909693dac08186b/index.m3u8
-#EXTINF:-1 group-title="PRIVADO",jgirl
-https://z3.ubtvfans.com/live/rx5/3151/8b2b585365f9d90200c61f86dd76385d/index.m3u8
 #EXTINF:-1 group-title="PRIVADO" tvg-id="456842" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/Banana.png",香蕉台(125)
 http://125.227.210.55:1009/VideoInput/play.ts
 #EXTINF:-1 group-title="PRIVADO" tvg-logo="https://www.ourshdtv.com/static/index/images/logo/logo_727_346.png",奧視2台(125)
@@ -123,23 +96,6 @@ http://125.227.210.55:1022/VideoInput/play.ts
 http://125.227.210.55:3016/VideoInput/play.ts
 #EXTINF:-1 group-title="PRIVADO" tvg-logo="",Sex girl(125)
 http://125.227.210.55:3031/VideoInput/play.ts
-#EXTINF:-1 group-title="PRIVADO" tvg-logo="https://www.ourshdtv.com/static/index/images/logo/logo_727_346.png",奧視3台(125)
-http://125.227.210.55:3033/VideoInput/play.ts
-
-#EXTINF:-1 tvg-logo="https://www.logo.wine/a/logo/Playboy_Club/Playboy_Club-Logo.wine.svg" group-title="未分类",Playboy TV
-https://s.oxax.tv/6/index.m3u8?k=1778811054p61i081i921i301Sc0cdbc10dcd3c132b567aa803c8cb247
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Vivid.png/revision/latest?cb=20180213192129" group-title="未分类",VIVIDRED
-https://s.oxax.tv/7/index.m3u8?k=1778818444p61i081i921i301S66d2cb5afb3ac406cd29fc6866816b3f
-#EXTINF:-1 tvg-logo="https://www.cns-net-tw.speedycdn.click/web/upload/20141014174815AC3NVWC.png" group-title="未分类",松视1台
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
-#EXTINF:-1 tvg-logo="https://www.cns-net-tw.speedycdn.click/web/upload/20141017171414PCw2jYN.png" group-title="未分类",松视2台
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
-#EXTINF:-1 tvg-logo="https://www.cns-net-tw.speedycdn.click/web/upload/201410171714027yS2M7G.png" group-title="未分类",松视3台
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
-#EXTINF:-1 tvg-logo="https://epg.pw/media/images/epg/2025/09/17/20250917053716545805_39.jpg" group-title="未分类",松视4台
-https://u.kstore.space/download/8504/苹果香2.mp4
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/pinko4655.logowik.com.webp" group-title="未分类",Pink O TV
-https://s.oxax.tv/22/index.m3u8?k=1778816386p61i081i921i301S5f54560f5488f0897d79afc5ddcbd6f2
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Babes_TV.svg/revision/latest?cb=20211001144154" group-title="国际",Babes
 http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
