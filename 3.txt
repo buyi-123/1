@@ -3479,10 +3479,6 @@
       "url": "https://live.zhi35.com/radio.m3u"
     },
    {
-      "name": "BunBun",
-      "url": "http://nn.7x9d.cn/tv/Bunbun.m3u"
-    },
-   {
       "name": "Twitch",
       "url": "https://twitch.445569.xyz/live.m3u"
     }
