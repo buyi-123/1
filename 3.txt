@@ -34,6 +34,12 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/优酷视频.py"
     },
     {
+      "key": "央视频",
+      "name": "央视频.py",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/央视频.py"
+    },
+    {
       "key": "哔哩影视",
       "name": "哔哩影视.py",
       "type": 3,
@@ -3467,6 +3473,10 @@
    {
       "name": 2,
       "url": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/2.txt"
+    },
+   {
+      "name": "Radio",
+      "url": "https://live.zhi35.com/radio.m3u"
     },
    {
       "name": "BunBun",
