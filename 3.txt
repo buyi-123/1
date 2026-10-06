@@ -34,12 +34,6 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/央视频.py"
     },
     {
-      "key": "央视频_1",
-      "name": "央视频_1.py",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/央视频_1.py"
-    },
-    {
       "key": "哔哩影视",
       "name": "哔哩影视.py",
       "type": 3,
@@ -50,12 +44,6 @@
       "name": "独播库.py",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/独播库.py"
-    },
-    {
-      "key": "全球更新",
-      "name": "全球更新.py",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/全球更新.py"
     },
     {
       "key": "youtube",
@@ -233,7 +221,7 @@
     },
     {
       "key": "听友合体",
-      "name": "听友合体.py",
+      "name": "听友合体（免梯）.py",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/听友合体.py"
     },
