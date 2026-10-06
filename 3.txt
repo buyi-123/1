@@ -1324,6 +1324,12 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/PTT短剧.py"
     },
     {
+      "key": "橙果",
+      "name": "橙果.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/橙果.py"
+    },
+    {
       "key": "黄豆短剧",
       "name": "黄豆短剧.py｜🔞",
       "type": 3,
