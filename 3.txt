@@ -2080,12 +2080,6 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/藏姬阁.py"
     },
     {
-      "key": "美女视频收藏馆",
-      "name": "美女视频收藏馆.py",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/美女视频收藏馆.py"
-    },
-    {
       "key": "愛豆AV",
       "name": "愛豆AV.py｜🔞",
       "type": 3,
