@@ -34,12 +34,6 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/央视频.py"
     },
     {
-      "key": "短剧合集",
-      "name": "短剧合集.py",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/短剧合集.py"
-    },
-    {
       "key": "哔哩影视",
       "name": "哔哩影视.py",
       "type": 3,
@@ -194,6 +188,12 @@
       "name": "多聚短剧.py",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/多聚短剧.py"
+    },
+    {
+      "key": "短剧合集",
+      "name": "短剧合集.py",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/短剧合集.py"
     },
     {
       "key": "真果鉴",
